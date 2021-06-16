@@ -1,2 +1,1 @@
-# 10HourJSProjects
-for myself
+# 10 small JS projects
